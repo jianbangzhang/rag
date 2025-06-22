@@ -1,4 +1,3 @@
-# 正确的代码如下（修复了语法和拼写错误）：
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.llms.huggingface import HuggingFaceLLM
